@@ -1,6 +1,5 @@
 # cs81-module3a-github
 
-School assignment
 
 Function  \ Purpose
 greet()   \ Return a "Hello, (name)!" string
