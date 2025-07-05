@@ -1,11 +1,11 @@
 
 What I learned?
 
-Using github is super covenient for developers because it tracks everything the developer is doing, plus gitbut is quite easy to learn and use.
+Using github is super covenient for developers because it tracks everything the developer is doing, plus github is quite easy to learn and use.
 
 Most confusing or frustating thing?
 
-The most frustrating thing is making sure that everything is working and having to go back and forth to make sure it works.
+The most frustrating thing is making sure that everything is working and having to go back and forth to make sure it does work.
 
 Why do developers use Git?
 
